@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="Restaurant/src/test.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Order Management/src/test.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Restaurant/src&lt;Main{Start.java[Start" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/Restaurant/diagram.ucls"/>
+        <file path="/Restaurant/restaurant.ser"/>
+        <file path="/Restaurant/bill.txt"/>
+        <file path="/Restaurant/.project"/>
+        <folder path="/Restaurant/doc"/>
+        <file path="/Restaurant/PT2020_30424_Lidia_Rad_Assignment_4.jar"/>
+        <javaElement handleIdentifier="=Restaurant/src"/>
+        <file path="/Restaurant/.classpath"/>
+    </selectedElements>
+</jardesc>

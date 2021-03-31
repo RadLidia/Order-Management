@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="connection" project="Order Management" file="/Order Management/src/connection" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="146" x="290" y="240"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="business_logic" project="Order Management" 
+    file="/Order Management/src/business_logic" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="155" x="476" y="240"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="presentation" project="Order Management" 
+    file="/Order Management/src/presentation" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="146" x="671" y="240"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="data_access" project="Order Management" file="/Order Management/src/data_access" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="146" x="857" y="240"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="start" project="Order Management" file="/Order Management/src/start" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="146" x="1043" y="240"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="6" language="java" name="model" project="Order Management" file="/Order Management/src/model" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="146" x="1229" y="240"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
